@@ -1,7 +1,7 @@
 {
   "name": "connect-html-minifier",
   "description": "HTML minifier middleware for connect.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index",
   "scripts": {
     "test": "mocha"
