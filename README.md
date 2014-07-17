@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/neoziro/connect-html-minifier.png?branch=master)](https://travis-ci.org/neoziro/connect-html-minifier)
-
-# Connect HTML minifier
+# connect-html-minifier
+[![Build Status](https://travis-ci.org/neoziro/connect-html-minifier.svg?branch=master)](https://travis-ci.org/neoziro/connect-html-minifier)
+[![Dependency Status](https://david-dm.org/neoziro/connect-html-minifier.svg?theme=shields.io)](https://david-dm.org/neoziro/connect-html-minifier)
+[![devDependency Status](https://david-dm.org/neoziro/connect-html-minifier/dev-status.svg?theme=shields.io)](https://david-dm.org/neoziro/connect-html-minifier#info=devDependencies)
 
 HTML minifier middleware for connect.
 
