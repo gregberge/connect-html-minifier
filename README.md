@@ -5,13 +5,13 @@
 
 HTML minifier middleware for connect.
 
-## Installing
+## Install
 
 ````
 npm install connect-html-minifier
 ````
 
-## How to use ?
+## Usage
 
 ````javascript
 var connect = require('connect'),
@@ -22,7 +22,7 @@ connect()
 .listen(8080);
 ````
 
-## Options
+### Options
 
 Options allowed are the same as options allowed in [kangax/html-minifier](https://github.com/kangax/html-minifier/).
 
